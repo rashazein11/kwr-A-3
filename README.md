@@ -3,7 +3,7 @@
 
 ## 👥 Kelompok
 
-**Nama Kelompok:** [3]
+**Nama Kelompok:** 3
 
 | NPM | Nama |
 |---|---|
@@ -81,15 +81,15 @@ Project DIGIPLAN saat ini masih dalam tahap **pengembangan awal**.
 
 ## 🔗 Dokumentasi Project
 
-- **Canva:** [https://canva.link/9jinrik6ekifamu]
-- **Google Docs:** [https://docs.google.com/document/d/185vZEnoLbSWhSxdwl9MVWXC6vYDkmz3AAoASmns53MQ/edit?usp=sharing]
+- **Canva:** https://canva.link/9jinrik6ekifamu
+- **Google Docs:** https://docs.google.com/document/d/185vZEnoLbSWhSxdwl9MVWXC6vYDkmz3AAoASmns53MQ/edit?usp=sharing
 
 ---
 
 ## 🎓 Informasi Perkuliahan
 
-**Mata Kuliah:** [Kewirausahaan]  
-**Dosen:** [Adi Wahyu Pribadi, S.Si., M.Kom]  
+**Mata Kuliah:** Kewirausahaan  
+**Dosen:** Adi Wahyu Pribadi, S.Si., M.Kom  
 **Program Studi:** Teknik Informatika  
 **Universitas:** Universitas Pancasila
 
