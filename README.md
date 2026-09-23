@@ -1,7 +1,7 @@
-# DIGIPLAN 📚
+# DIGIPLAN 
 ### Digital Planner
 
-## 👥 Kelompok
+## Kelompok
 
 **Nama Kelompok:** 3
 
@@ -15,11 +15,11 @@
 
 ---
 
-## 📌 Tentang Project
+## Tentang Project
 
 DIGIPLAN (Digital Planner) adalah aplikasi mobile yang dirancang untuk membantu mahasiswa dalam mengelola tugas, jadwal, deadline, dan waktu belajar secara lebih terorganisir.
 
-## 📌 Latar Belakang
+## Latar Belakang
 
 Mahasiswa sering mengalami kesulitan dalam mengelola tugas dan jadwal akademik karena informasi tugas dapat berasal dari berbagai sumber, seperti WhatsApp, LMS, maupun penyampaian langsung di kelas.
 
@@ -27,7 +27,7 @@ Selain itu, banyaknya tugas, mata kuliah, dan kegiatan non-akademik dapat menyeb
 
 Berdasarkan permasalahan tersebut, kami mengembangkan DIGIPLAN sebagai solusi untuk membantu mahasiswa mengelola aktivitas akademik secara lebih teratur.
 
-## 🎯 Tujuan
+## Tujuan
 
 DIGIPLAN bertujuan untuk membantu mahasiswa:
 
@@ -37,11 +37,11 @@ DIGIPLAN bertujuan untuk membantu mahasiswa:
 - Mengingat deadline tugas.
 - Memantau aktivitas akademik.
 
-## 🔎 Problem Statement
+## Problem Statement
 
 Mahasiswa kesulitan mengelola tugas, jadwal, dan deadline akademik secara efektif karena informasi tersebar di berbagai platform dan belum adanya sistem pengingat serta manajemen jadwal yang otomatis, praktis, dan real-time.
 
-## 🎤 Hasil Wawancara
+## Hasil Wawancara
 
 **Narasumber:** Anra Maki Tihami  
 **NPM:** 4525210013  
@@ -50,7 +50,7 @@ Mahasiswa kesulitan mengelola tugas, jadwal, dan deadline akademik secara efekti
 
 Hasil wawancara menunjukkan bahwa narasumber sering mengalami kesulitan dalam mengingat tugas dan deadline karena informasi tugas diberikan melalui berbagai media seperti WhatsApp, LMS, maupun penyampaian langsung di kelas.
 
-## 📋 Status Project
+## Status Project
 
 Project DIGIPLAN saat ini masih dalam tahap **pengembangan awal**.
 
@@ -69,7 +69,7 @@ Project DIGIPLAN saat ini masih dalam tahap **pengembangan awal**.
 - [ ] Pengujian aplikasi
 - [ ] Evaluasi pengguna
 
-## 📝 Kontribusi Kelompok
+## Kontribusi Kelompok
 
 | Nama | Kontribusi |
 |---|---|
@@ -79,14 +79,14 @@ Project DIGIPLAN saat ini masih dalam tahap **pengembangan awal**.
 | Dzikrullah Surachman | |
 | Elsa Setia Marcsa | |
 
-## 🔗 Dokumentasi Project
+## Dokumentasi Project
 
 - **Canva:** https://canva.link/9jinrik6ekifamu
 - **Google Docs:** https://docs.google.com/document/d/185vZEnoLbSWhSxdwl9MVWXC6vYDkmz3AAoASmns53MQ/edit?usp=sharing
 
 ---
 
-## 🎓 Informasi Perkuliahan
+## Informasi Perkuliahan
 
 **Mata Kuliah:** Kewirausahaan  
 **Dosen:** Adi Wahyu Pribadi, S.Si., M.Kom  
