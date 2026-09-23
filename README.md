@@ -8,10 +8,10 @@
 | NPM | Nama |
 |---|---|
 | 4525210042 | Muhamad Rasha Zein |
-| 4524210090 | Ririn Verdawati |
+| 4524210030 | Elsa Setia Marcsa |
 | 4525210035 | Khairul Adam Efendi |
 | 4524210029 | Dzikrullah Surachman |
-| 4524210030 | Elsa Setia Marcsa |
+| 4524210090 | Ririn Verdawati |
 
 ---
 
@@ -74,10 +74,10 @@ Project DIGIPLAN saat ini masih dalam tahap **pengembangan awal**.
 | Nama | Kontribusi |
 |---|---|
 | Muhamad Rasha Zein | |
-| Ririn Verdawati | |
+| Elsa Setia Marcsa | |
 | Khairul Adam Efendi | |
 | Dzikrullah Surachman | |
-| Elsa Setia Marcsa | |
+| Ririn Verdawati | |
 
 ## Dokumentasi Project
 
