@@ -9,9 +9,9 @@
 |---|---|
 | 4525210042 | Muhamad Rasha Zein |
 | 4524210030 | Elsa Setia Marcsa |
-| 4525210035 | Khairul Adam Efendi |
-| 4524210029 | Dzikrullah Surachman |
 | 4524210090 | Ririn Verdawati |
+| 4524210029 | Dzikrullah Surachman |
+| 4525210035 | Khairul Adam Efendi |
 
 ---
 
@@ -94,9 +94,9 @@ Project DIGIPLAN saat ini masih dalam tahap *pengembangan awal*.
 |---|---|
 | Muhamad Rasha Zein | |
 | Elsa Setia Marcsa | |
-| Khairul Adam Efendi | |
+| Ririn Verdawati  | |
 | Dzikrullah Surachman | |
-| Ririn Verdawati | |
+| Khairul Adam Efendi | |
 
 ## Dokumentasi Project
 
