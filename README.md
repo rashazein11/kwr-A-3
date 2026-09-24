@@ -51,7 +51,7 @@ Mengalami kesulitan menemukan kembali informasi tugas karena tugas diberikan mel
 *Permasalahan:*  
 Mengalami kesulitan mengatur waktu antara kegiatan perkuliahan, tugas, dan kegiatan di luar kuliah. Ketika aktivitas meningkat, jadwal belajar menjadi tidak teratur dan tugas cenderung dikerjakan mendekati deadline.
 
-### Narasumber 5 - 
+### Narasumber 5 - Sultan Rahman
 
 *Permasalahan:*  
 Mengalami kesulitan menentukan prioritas tugas ketika beberapa tugas memiliki deadline yang berdekatan. Tugas yang membutuhkan waktu pengerjaan lebih lama dapat tertunda karena lebih berfokus pada deadline terdekat.
