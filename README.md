@@ -36,7 +36,7 @@ Wawancara dilakukan untuk mengetahui permasalahan yang dialami mahasiswa dalam m
 *Permasalahan:*  
 Mengalami kesulitan mengingat tugas dan deadline karena informasi tugas berasal dari berbagai sumber seperti WhatsApp, LMS, maupun penyampaian langsung di kelas.
 
-### Narasumber 2 - 
+### Narasumber 2 - Maria Natalis Alyssa Beli
 
 *Permasalahan:*  
 Mengalami kesulitan menentukan tugas yang harus dikerjakan terlebih dahulu ketika terdapat banyak tugas dengan deadline yang berdekatan. Akibatnya, beberapa tugas dikerjakan mendekati deadline.
