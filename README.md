@@ -46,7 +46,7 @@ Mengalami kesulitan menentukan tugas yang harus dikerjakan terlebih dahulu ketik
 *Permasalahan:*  
 Mengalami kesulitan menemukan kembali informasi tugas karena tugas diberikan melalui berbagai media, seperti WhatsApp dan LMS. Informasi yang menumpuk membuat tugas lebih sulit ditemukan.
 
-### Narasumber 4 - 
+### Narasumber 4 - Zoeffanya Cianda Larasati Akbar
 
 *Permasalahan:*  
 Mengalami kesulitan mengatur waktu antara kegiatan perkuliahan, tugas, dan kegiatan di luar kuliah. Ketika aktivitas meningkat, jadwal belajar menjadi tidak teratur dan tugas cenderung dikerjakan mendekati deadline.
