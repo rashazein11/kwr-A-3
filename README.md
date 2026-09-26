@@ -79,10 +79,10 @@ Wawancara dilakukan kepada lima pihak yang berhubungan langsung dengan kegiatan 
 **Owner Elsclothyle** digunakan sebagai pihak validasi terhadap masalah yang ditemukan dan strategi yang akan dikembangkan.
 
 ### Pertanyaan Wawancara
-(isi pertanyaan wawancara - elsa)
+(isi pertanyaan wawancara sesuai laporan - elsa)
 
 ---
-(isi sesuai laporan - elsa)
+(hasilnya isi sesuai laporan - elsa)
 ## Hasil Wawancara 
 
 ### Host Live
