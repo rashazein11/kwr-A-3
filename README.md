@@ -1,119 +1,245 @@
-# DIGIPLAN 
-### Digital Planner
+# Pengembangan Strategi Bisnis pada Usaha Elsclothyle
 
-## Kelompok
+Laporan ini disusun untuk memenuhi progres **Projek Mata Kuliah Kewirausahaan (A)**.
 
-**Nama Kelompok:** 3
+**Dosen Pengampu:** Adi Wahyu Pribadi, S.Si., M.Kom
 
-| NPM | Nama |
+## Kelompok 3
+
+| Nama | NPM |
 |---|---|
-| 4525210042 | Muhamad Rasha Zein |
-| 4524210030 | Elsa Setia Marcsa |
-| 4524210090 | Ririn Verdawati |
-| 4524210029 | Dzikrullah Surachman |
-| 4525210035 | Khairul Adam Efendi |
+| Elsa Setia Marcsa | 4524210030 |
+| Ririn Verdawati | 4524210090 |
+| Dzikrulah Surachman | 4524210029 |
+| Muhamad Rasha Zein | 4525210042 |
+| Khairul Adam Efendi | 4525210035 |
+
+**Program Studi S1 Teknik Informatika**  
+**Fakultas Teknik – Universitas Pancasila**  
+**2026/2027**
 
 ---
 
-## Tentang Project
+## 🔗 Link Projek
 
-DIGIPLAN (Digital Planner) merupakan aplikasi mobile yang dirancang untuk membantu mahasiswa dalam mengelola tugas, jadwal, deadline, dan waktu belajar secara lebih terorganisir.
+- **Google Drive:** 
+- **Canva:** 
+- **Google Docs:** https://docs.google.com/document/d/1edbMe8-qEBvCAVntM3VigOk1SkZz0f0W7y7ZwwirqR4/edit?usp=drivesdk 
 
-Project ini dikembangkan berdasarkan permasalahan yang ditemukan melalui wawancara dengan mahasiswa.
+---
 
-## Latar Belakang Masalah
+## Profil Usaha
 
-Dalam kegiatan perkuliahan, mahasiswa sering menghadapi berbagai tugas dengan deadline yang berdekatan. Selain itu, informasi tugas dapat diberikan melalui berbagai media seperti WhatsApp dan LMS sehingga informasi tersebut dapat menumpuk dan sulit ditemukan kembali.
+**Nama Usaha:** Elsclothyle  
+**Jenis Usaha:** Fashion / Pakaian  
+**Sistem Penjualan:** Online dan Live Selling  
+**Toko Offline:** Belum tersedia
 
-Mahasiswa juga mengalami kesulitan dalam membagi waktu antara kegiatan akademik dan kegiatan di luar perkuliahan. Kondisi tersebut dapat menyebabkan tugas dikerjakan mendekati deadline dan membuat mahasiswa kesulitan menentukan prioritas.
+Elsclothyle merupakan usaha di bidang fashion yang melakukan penjualan secara online dan melalui live selling. Kegiatan bisnis melibatkan beberapa bagian, yaitu **kurir, packing, host live, dan admin**.
 
-## Hasil Wawancara
+Proyek ini dilakukan untuk mengembangkan usaha yang sudah berjalan dengan cara menemukan masalah nyata dalam kegiatan bisnis, kemudian menganalisisnya untuk menemukan peluang dan menentukan strategi pengembangan yang sesuai.
 
-Wawancara dilakukan untuk mengetahui permasalahan yang dialami mahasiswa dalam menjalankan kegiatan akademik.
+---
 
-### Narasumber 1 — Anra Maki Tihami
+## Latar Belakang
 
-*Permasalahan:*  
-Mengalami kesulitan mengingat tugas dan deadline karena informasi tugas berasal dari berbagai sumber seperti WhatsApp, LMS, maupun penyampaian langsung di kelas.
+Pengembangan bisnis tidak selalu harus dilakukan dengan membuat usaha baru. Usaha yang sudah berjalan juga dapat dikembangkan dengan menemukan masalah yang terjadi dan mencari peluang untuk memperbaikinya.
 
-### Narasumber 2 - Maria Natalis Alyssa Beli
+Elsclothyle dipilih sebagai objek karena telah memiliki kegiatan bisnis yang berjalan, mulai dari promosi dan live selling, menerima pesanan, menyiapkan barang, hingga mengirimkan pesanan kepada customer.
 
-*Permasalahan:*  
-Mengalami kesulitan menentukan tugas yang harus dikerjakan terlebih dahulu ketika terdapat banyak tugas dengan deadline yang berdekatan. Akibatnya, beberapa tugas dikerjakan mendekati deadline.
+Kelompok melakukan wawancara kepada pihak yang terlibat langsung dalam kegiatan bisnis untuk mengetahui masalah yang benar-benar terjadi.
 
-### Narasumber 3 - Andika Prasetyo
+---
 
-*Permasalahan:*  
-Mengalami kesulitan menemukan kembali informasi tugas karena tugas diberikan melalui berbagai media, seperti WhatsApp dan LMS. Informasi yang menumpuk membuat tugas lebih sulit ditemukan.
+## Tujuan
 
-### Narasumber 4 - Zoeffanya Cianda Larasati Akbar
+Proyek ini bertujuan untuk:
 
-*Permasalahan:*  
-Mengalami kesulitan mengatur waktu antara kegiatan perkuliahan, tugas, dan kegiatan di luar kuliah. Ketika aktivitas meningkat, jadwal belajar menjadi tidak teratur dan tugas cenderung dikerjakan mendekati deadline.
+- Mengetahui masalah yang terjadi dalam kegiatan bisnis Elsclothyle.
+- Mengetahui kebutuhan dan kendala pihak yang terlibat.
+- Menentukan masalah utama yang berdampak terhadap bisnis.
+- Menemukan peluang pengembangan berdasarkan masalah.
+- Menentukan strategi bisnis yang sesuai.
+- Membuat dan menguji solusi yang dapat membantu pengembangan usaha.
 
-### Narasumber 5 - Sultan Rahman
+---
 
-*Permasalahan:*  
-Mengalami kesulitan menentukan prioritas tugas ketika beberapa tugas memiliki deadline yang berdekatan. Tugas yang membutuhkan waktu pengerjaan lebih lama dapat tertunda karena lebih berfokus pada deadline terdekat.
+## Wawancara
 
-## Kesimpulan Permasalahan
+Wawancara dilakukan kepada lima pihak yang berhubungan langsung dengan kegiatan bisnis Elsclothyle.
 
-Berdasarkan hasil wawancara terhadap lima mahasiswa, ditemukan beberapa permasalahan yang berkaitan dengan pengelolaan aktivitas akademik, yaitu:
+| No. | Narasumber | Fokus |
+|---|---|---|
+| 1 | Kurir | Kendala proses pengiriman |
+| 2 | Packing | Kendala menyiapkan pesanan |
+| 3 | Admin | Kendala mengelola pesanan dan customer |
+| 4 | Host Live | Kendala saat live selling |
+| 5 | Customer | Kendala saat membeli produk |
 
-- Kesulitan mengingat tugas dan deadline.
-- Kesulitan menentukan prioritas tugas.
-- Informasi tugas tersebar di berbagai media.
-- Kesulitan menemukan kembali informasi tugas.
-- Kesulitan mengatur waktu antara kegiatan akademik dan non-akademik.
-- Tugas cenderung dikerjakan mendekati deadline.
+**Owner Elsclothyle** digunakan sebagai pihak validasi terhadap masalah yang ditemukan dan strategi yang akan dikembangkan.
 
-Permasalahan tersebut menjadi dasar dalam pengembangan *DIGIPLAN* sebagai solusi untuk membantu mahasiswa mengelola aktivitas akademik secara lebih terorganisir.
+### Pertanyaan Wawancara
+(isi pertanyaan wawancara - elsa)
 
-## Status Project
+---
+(isi sesuai laporan - elsa)
+## Hasil Wawancara 
 
-Project DIGIPLAN saat ini masih dalam tahap *pengembangan awal*.
+### Host Live
 
-### Progress
 
-- [x] Menentukan permasalahan utama
-- [x] Melakukan wawancara pengguna
-- [x] Mengumpulkan permasalahan pengguna
-- [x] Menentukan target pengguna
-- [x] Membuat problem statement
-- [x] Menentukan rumusan masalah
-- [x] Menentukan tujuan project
-- [ ] Perancangan UI/UX
-- [ ] Perancangan database
-- [ ] Pengembangan aplikasi
-- [ ] Implementasi sistem
-- [ ] Pengujian aplikasi
-- [ ] Evaluasi pengguna
+### Admin Chat
+
+
+### Packing
+
+
+### Kurir/Pengiriman
+
+
+### Customer
+
+
+---
+
+## Analisis Masalah
+
+Dari hasil wawancara, ditemukan beberapa masalah seperti:
+
+- Pengecekan stok belum efektif.
+- Host live harus bertanya kepada admin mengenai stok.
+- Admin menerima banyak pertanyaan customer mengenai stok, warna, dan ukuran.
+- Packing harus melakukan pengecekan pesanan satu per satu.
+- Risiko kesalahan ukuran, warna, dan kode barang.
+- Customer kesulitan mengetahui ketersediaan produk secara langsung.
+
+Dari kelima narasumber, ditemukan pola masalah yang saling berhubungan, yaitu **pengelolaan dan penyampaian informasi stok barang**.
+
+### Masalah Utama
+
+> **Belum optimalnya pengelolaan dan penyampaian informasi stok barang Elsclothyle sehingga proses live selling, pelayanan customer, dan pengelolaan pesanan menjadi kurang efisien.**
+
+Masalah ini selanjutnya akan divalidasi kepada owner Elsclothyle.
+
+---
+
+## Validasi Owner
+
+Validasi dilakukan untuk memastikan bahwa masalah yang ditemukan benar-benar sesuai dengan kondisi bisnis Elsclothyle.
+
+Hal yang akan divalidasi:
+
+- Apakah pengelolaan stok menjadi kendala dalam kegiatan bisnis?
+- Apakah masalah stok berpengaruh terhadap live selling dan pelayanan customer?
+- Apakah pernah terjadi kesalahan ukuran, warna, atau kode barang?
+- Apakah dibutuhkan sistem pengelolaan stok yang lebih terpusat?
+- Apakah solusi sistem informasi stok memungkinkan untuk diterapkan?
+
+---
+
+## Strategi Pengembangan Bisnis
+
+Strategi yang direncanakan adalah **meningkatkan efisiensi pengelolaan stok dan pelayanan customer melalui informasi stok yang lebih terpusat dan mudah diakses**.
+
+Strategi ini diharapkan dapat membantu:
+
+- **Host Live** → mengetahui stok dengan lebih cepat.
+- **Admin** → memberikan informasi kepada customer dengan lebih mudah.
+- **Packing** → mengurangi risiko kesalahan pesanan.
+- **Customer** → mengetahui ketersediaan produk dengan lebih mudah.
+
+---
+
+## Solusi
+
+Solusi yang direncanakan adalah membuat **website pendukung pengelolaan stok dan penjualan Elsclothyle**.
+
+Website ini bukan toko online baru, tetapi sistem pendukung untuk kegiatan bisnis yang sudah berjalan.
+
+### Fitur Utama
+
+#### 1. Data Produk
+
+- Kode barang
+- Nama barang
+- Warna
+- Ukuran
+- Jumlah stok
+
+#### 2. Pengelolaan Stok
+
+- Menambah stok
+- Mengurangi stok
+- Memperbarui stok
+
+#### 3. Pengecekan Stok
+
+- Admin dapat melihat stok.
+- Host live dapat melihat stok tanpa harus selalu bertanya kepada admin.
+
+#### 4. Data Pesanan
+
+- Mencatat pesanan.
+- Membantu packing mencocokkan barang dengan pesanan.
+
+#### 5. Informasi Produk
+
+Membantu customer mengetahui ketersediaan produk.
+
+---
+
+## Evaluasi
+
+Keberhasilan solusi akan dievaluasi melalui:
+
+- Waktu host live dalam mengetahui stok.
+- Kecepatan admin menjawab pertanyaan stok.
+- Jumlah kesalahan ukuran, warna, atau kode saat packing.
+- Kemudahan pengecekan stok.
+- Kemudahan customer mengetahui ketersediaan produk.
+- Perubahan jumlah pesanan atau transaksi sebelum dan setelah solusi diterapkan.
+
+---
+
+## Kaitan dengan Kewirausahaan
+
+Proyek ini menerapkan konsep kewirausahaan dengan mengembangkan usaha yang sudah berjalan berdasarkan masalah nyata.
+
+Alur pengembangan:
+
+**Masalah → Peluang → Strategi Bisnis → Solusi → Pengujian → Dampak Bisnis**
+
+Kelompok tidak hanya membuat website, tetapi menggunakan teknologi sebagai **alat untuk menciptakan nilai dan membantu meningkatkan efisiensi bisnis Elsclothyle**.
+
+---
+
 ## Kontribusi Kelompok
 
-| Nama | Kontribusi |
-|---|---|
-| Muhamad Rasha Zein | |
-| Elsa Setia Marcsa | |
-| Ririn Verdawati  | |
-| Dzikrullah Surachman | |
-| Khairul Adam Efendi | |
+| No. | Nama | NPM | Kontribusi |
+|---|---|---|---|
+| 1 | Elsa Setia Marcsa | 4524210030 | |
+| 2 | Ririn Verdawati | 4524210090 | |
+| 3 | Dzikrulah Surachman | 4524210029 | |
+| 4 | Muhamad Rasha Zein | 4525210042 | |
+| 5 | Khairul Adam Efendi | 4525210035 | |
 
-## Dokumentasi Project
+## Dokumentasi Projek
 
-- *Canva:* https://canva.link/9jinrik6ekifamu
-- *Google Docs:* https://docs.google.com/document/d/185vZEnoLbSWhSxdwl9MVWXC6vYDkmz3AAoASmns53MQ/edit?usp=sharing
-- *Video Wawancara:* https://drive.google.com/drive/folders/1NtxDEgNgeGuAlzPQIy5SnxtWyqgQndzV
-
----
-
-## Informasi Perkuliahan
-
-*Mata Kuliah:* Kewirausahaan  
-*Dosen:* Adi Wahyu Pribadi, S.Si., M.Kom
-*Program Studi:* Teknik Informatika  
-*Universitas:* Universitas Pancasila
+- **Laporan:** Google Docs https://docs.google.com/document/d/1edbMe8-qEBvCAVntM3VigOk1SkZz0f0W7y7ZwwirqR4/edit?usp=drivesdk
+- **Presentasi:** Canva
+- **Dokumentasi/File Projek:** Google Drive
 
 ---
 
-### DIGIPLAN
-*Plan Better, Study Smarter.*
+## Status Projek
+
+- [x] Menentukan objek usaha
+- [x] Menentukan narasumber
+- [x] Melakukan wawancara
+- [x] Menganalisis hasil wawancara
+- [x] Menentukan masalah utama sementara
+- [ ] Validasi masalah kepada owner
+- [ ] Menentukan strategi final
+- [ ] Pengembangan solusi
+- [ ] Pengujian solusi
+- [ ] Evaluasi hasil
